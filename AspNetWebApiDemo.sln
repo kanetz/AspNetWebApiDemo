@@ -6,11 +6,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{49F7360E-E597-41BA-B3D8-BC6F14EA980C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{71E8B625-B66B-46ED-AAC6-1FF51EFBB6D5}"
-	ProjectSection(SolutionItems) = preProject
-		AspNetWebApiDemo.vsmdi = AspNetWebApiDemo.vsmdi
-		Local.testsettings = Local.testsettings
-		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution

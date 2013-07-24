@@ -65,7 +65,9 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CoursesControllerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UsingSelfHostServer.cs" />
     <Compile Include="ValuesControllerTest.cs" />
   </ItemGroup>
   <ItemGroup>
